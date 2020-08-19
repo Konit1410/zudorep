@@ -2,7 +2,7 @@ import math
 import sys
 
 
-class Simple_math:
+class SimpleMath:
 
     def sq_root_sum_by_product(arguments: list) -> complex():
         """square root of sum divided by product from setpoint of numbers"""

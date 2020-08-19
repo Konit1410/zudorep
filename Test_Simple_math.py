@@ -1,5 +1,5 @@
 import pytest
-from Task1.Special_math import Simple_math
+from Task1.Special_math import SimpleMath
 
 
 @pytest.mark.parametrize('arguments, ans', [
